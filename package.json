@@ -1,0 +1,23 @@
+{
+  "name": "nros-cypress-testing-poc",
+  "version": "0.0.1",
+  "description": "Proof of concept testing out some NROS Portal functionality with cypress.io",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loneil/nros-cypress-testing-poc.git"
+  },
+  "author": "Lucas O'Neil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loneil/nros-cypress-testing-poc/issues"
+  },
+  "homepage": "https://github.com/loneil/nros-cypress-testing-poc#readme"
+}
